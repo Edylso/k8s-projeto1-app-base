@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Criando as imagens....."
+echo "Criando as imagens..... teste"
 
 docker build -t edilso/projeto-backend:1.0 backend/.
 docker build -t edilso/projeto-database:1.0 database/.
